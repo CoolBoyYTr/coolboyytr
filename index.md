@@ -1,4 +1,4 @@
-# Curse of Aros - All Ranks
+# Curse of Aros - Ranks
 
 <form onsubmit="search()">
   <label for="name">Name:</label>
@@ -9,7 +9,7 @@
   <tr>
     <th>Name</th>
     <th>Rank</th>
-    <th>XP</th>
+    <th>Level</th>
     <th>Page</th>
   </tr>
   <tr>
