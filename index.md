@@ -56,7 +56,7 @@
   </tr>
 </table>
  
-<p>Made by <a href="Cool Boy YT">SoW CoolBoyYT</a></p>
+<p>Made by <a href="https://m.youtube.com/channel/UC4mW1obMU7paMiGkJF-4tbg">SoW CoolBoyYT</a></p>
 
 <p>Data from <a href="https://curseofaros.com">https://curseofaros.com</a></p>
 
