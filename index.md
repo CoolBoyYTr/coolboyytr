@@ -1,4 +1,4 @@
-# Curse of Aros - Ranks
+# Ranks
 
 <form onsubmit="search()">
   <label for="name">Name:</label>
@@ -9,11 +9,11 @@
   <tr>
     <th>Name</th>
     <th>Rank</th>
-    <th>Level</th>
+    <th>XP</th>
     <th>Page</th>
   </tr>
   <tr>
-    <td class="left">Level</td>
+    <td class="left">XP</td>
     <td></td>
     <td></td>
     <td></td>
@@ -87,7 +87,7 @@ const MAX_PAGE = 1000;
 const DEFAULT_NAME = "SoW CoolBoyYT";
 const INDEX = {
   "rank": 1,
-  "level": 2,
+  "xp": 2,
   "page": 3,
 };
 const skills = ["", "mining", "smithing", "woodcutting", "crafting", "fishing", "cooking"];
@@ -124,7 +124,7 @@ let search = async () => {
           continue
         }
         setCell(row, "rank", rank);
-        setCell(row, "level", levelTable.length);
+        setCell(row, "xp", item.xp);
         found = true;
         break
       }
@@ -155,4 +155,3 @@ function main() {
 main();
 
 </script>
- 
