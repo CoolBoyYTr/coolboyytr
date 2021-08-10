@@ -13,7 +13,7 @@
     <th>Page</th>
   </tr>
   <tr>
-    <td class="left">XP</td>
+    <td class="left">Level</td>
     <td></td>
     <td></td>
     <td></td>
@@ -87,7 +87,7 @@ const MAX_PAGE = 1000;
 const DEFAULT_NAME = "SoW CoolBoyYT";
 const INDEX = {
   "rank": 1,
-  "xp": 2,
+  "level": 2,
   "page": 3,
 };
 const skills = ["", "mining", "smithing", "woodcutting", "crafting", "fishing", "cooking"];
@@ -124,7 +124,7 @@ let search = async () => {
           continue
         }
         setCell(row, "rank", rank);
-        setCell(row, "xp", item.xp);
+        setCell(row, "level", item.xp);
         found = true;
         break
       }
