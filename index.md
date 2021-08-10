@@ -56,7 +56,7 @@
   </tr>
 </table>
 
-<p>Made by <a href="https://kaue.me">https://kaue.me</a></p>
+<p>Made by <a href="Cool Boy YT">https://m.youtube.com/channel/UC4mW1obMU7paMiGkJF-4tbg</a></p>
 
 <p>Data from <a href="https://curseofaros.com">https://curseofaros.com</a></p>
 
