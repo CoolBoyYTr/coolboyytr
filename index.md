@@ -124,7 +124,7 @@ let search = async () => {
           continue
         }
         setCell(row, "rank", rank);
-        setCell(row, "level", number);
+        setCell(row, "level", item.level);
         found = true;
         break
       }
