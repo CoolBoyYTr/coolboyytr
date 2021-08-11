@@ -124,7 +124,7 @@ let search = async () => {
           continue
         }
         setCell(row, "rank", rank);
-        setCell(row, "xp", item.xp);
+        setCell(row, "xp", melee);
         found = true;
         break
       }
