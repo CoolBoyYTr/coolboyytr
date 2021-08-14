@@ -1,3 +1,3 @@
 # Curse of Aros - All Ranks
 
-https://CoolBoyYTr.github.io/CoolBoyYTr.github.io/
+https://CoolBoyYTr.github.io/coolboyytr.github.io/
