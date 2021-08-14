@@ -1,3 +1,3 @@
 
 
-https://CoolBoyYTr.github.io/CoA-Ranks/
+https://CoolBoyYTr.github.io/coolboyytr/
