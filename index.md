@@ -14,6 +14,12 @@
     <th>Level<th>
   </tr>
   <tr>
+    <td class="left">Level</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td class="left">XP</td>
     <td></td>
     <td></td>
