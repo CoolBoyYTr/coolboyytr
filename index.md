@@ -1,4 +1,4 @@
-# Ranks
+#Ranks
 
 <form onsubmit="search()">
   <label for="name">Name:</label>
