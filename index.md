@@ -14,12 +14,6 @@
     <th>Level<th>
   </tr>
   <tr>
-    <td class="left">Level</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td class="left">XP</td>
     <td></td>
     <td></td>
@@ -90,13 +84,12 @@ td {
 
 <script>
 
-const MAX_PAGE = 1000;
+const MAX_PAGE = 2000;
 const DEFAULT_NAME = "SoW CoolBoyYT";
 const INDEX = {
   "rank": 1,
   "xp": 2,
   "page": 3,
-  "level": 4,
 };
 const skills = ["", "mining", "smithing", "woodcutting", "crafting", "fishing", "cooking"];
 
@@ -133,7 +126,6 @@ let search = async () => {
         }
         setCell(row, "rank", rank);
         setCell(row, "xp", xp);
-        setCell(row, "level", item.name);
         found = true;
         break
       }
