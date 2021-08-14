@@ -11,7 +11,6 @@
     <th>Rank</th>
     <th>XP</th>
     <th>Page</th>
-    <th>Level<th>
   </tr>
   <tr>
     <td class="left">XP</td>
