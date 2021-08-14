@@ -96,6 +96,7 @@ const INDEX = {
   "rank": 1,
   "xp": 2,
   "page": 3,
+  "level": 4,
 };
 const skills = ["", "mining", "smithing", "woodcutting", "crafting", "fishing", "cooking"];
 
