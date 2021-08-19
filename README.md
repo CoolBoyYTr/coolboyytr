@@ -1,3 +1,3 @@
 
 
-https://CoolBoyYTr.github.io/
+https://coolboyytr.github.io/
